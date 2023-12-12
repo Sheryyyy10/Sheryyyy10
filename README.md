@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/SyedShehryar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/syedshehryar23/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
 - Mail me on sheryarzahoor57@gmail.com
 
