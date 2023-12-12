@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </h1>
 <!-- //change here  -->
-<h2 align="center">I'm Attique, a Full-Stack Web Developer 👨‍💻 </h2>  
+<h2 align="center">I'm Sheryyy, a Full-Stack Web Developer 👨‍💻 </h2>  
   <br/>
 
 
@@ -37,14 +37,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/malikattique1/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sheryyyy10/count.svg" />
 </p>
 
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/malikattique1" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> -->
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=malikattique1&style=flat&color=brightgreen">  -->
 <!--   <img src="https://img.shields.io/github/stars/malikattique1?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
- <img src="https://img.shields.io/twitter/follow/malikattique1?logo=twitterstyle=flat&color=brightgreen" alt="malikattique1" />
+ <img src="https://img.shields.io/twitter/follow/Sheryyyy10?logo=twitterstyle=flat&color=brightgreen" alt="Sheryyyy10" />
 </p>
 
 
@@ -86,8 +86,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/attiqueurrehman12/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/SyedShehryar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   
-- Mail me on attiqueurrehman12@gmail.com 
+- Mail me on sheryarzahoor57@gmail.com
 
 </p>
