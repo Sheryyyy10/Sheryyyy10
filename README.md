@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://gpvc.arturio.dev/malikattique1" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> -->
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=malikattique1&style=flat&color=brightgreen">  -->
 <!--   <img src="https://img.shields.io/github/stars/malikattique1?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> -->
- <img src="https://img.shields.io/twitter/follow/Sheryyyy10?logo=twitterstyle=flat&color=brightgreen" alt="Sheryyyy10" />
+<!--  <img src="https://img.shields.io/twitter/follow/Sheryyyy10?logo=twitterstyle=flat&color=brightgreen" alt="Sheryyyy10" /> -->
 </p>
 
 
