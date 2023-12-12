@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Sheryyyy10
-- 👀 I’m interested in ... Developing people demands 
-- 🌱 I’m currently learning ... Django 
-- 📫 How to reach me ... |Sheryar._.zahoor| instagram 
 
 <!---
 Sheryyyy10/Sheryyyy10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Web Development**
 - ⚡  Ask me about anything related to MERN stack and related technologies
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Coding can “power up” your brain**
+- ⚡ |Sheryar._.zahoor| instagram
 
 <br/>
 <br>    
